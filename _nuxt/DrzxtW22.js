@@ -1,0 +1,1 @@
+import{l as n,o as s,c,b as _,P as a}from"./tIFZkqn5.js";const r={class:"row justify-end q-pa-md"},i=n({__name:"next-button",props:{to:{}},setup(o){const t=o;return(p,l)=>{const e=a;return s(),c("div",r,[_(e,{to:t.to,label:"Next","icon-right":"keyboard_double_arrow_right",class:"bg-secondary"},null,8,["to"])])}}});export{i as _};

@@ -1,0 +1,13 @@
+h4 {
+  text-align: center;
+  font-size: x-large;
+  margin-bottom: 20px;
+}
+p {
+  text-align: center;
+  font-size: medium;
+}
+.amber-divider {
+  height: 10px;
+  margin-bottom: 16px;
+}
