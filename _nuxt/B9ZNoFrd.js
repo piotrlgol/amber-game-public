@@ -1,0 +1,1 @@
+import{_ as e,q as t,o as c}from"./BqMAnIkK.js";import{_ as s}from"./BzZoHNIm.js";const _={};function n(r,a,p,d,f,m){const o=s;return c(),t(o,{class:"row justify-center bg-secondary"})}const l=e(_,[["render",n],["__scopeId","data-v-b994cfd4"]]);export{l as default};
