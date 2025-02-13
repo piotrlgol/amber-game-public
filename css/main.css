@@ -1,0 +1,51 @@
+h4 {
+  text-align: left;
+  font-size: 1.1em;
+  line-height: 1.5;
+  margin: 0;
+  padding: 10px 25px 0 25px;
+}
+p {
+  text-align: center;
+  font-size: medium;
+  padding: 10px 25px 0 25px;
+}
+.amber-divider {
+  height: 10px;
+  margin-bottom: 16px;
+}
+
+p {
+  text-align: left;
+}
+
+.logo-small {
+  width: 40%;
+  max-height: 10dvh;
+}
+
+.next-button {
+  position: fixed;
+  bottom: 10%;
+  right: 0;
+  z-index: 50;
+}
+
+.back-button {
+  position: fixed;
+  bottom: 10%;
+  left: 0;
+  z-index: 50;
+}
+
+.text-caption {
+  font-size: 0.7em;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+img {
+  width: 100%;
+}
